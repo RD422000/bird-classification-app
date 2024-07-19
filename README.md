@@ -1,7 +1,9 @@
 # bird-classification-app
 
 Bird classification done on local birds with fastai. 
-<br>### SOFTWARE TOOLS <br>
+<br>
+### SOFTWARE TOOLS
+<br>
 Jupyter Notebook: server-client application that allows editing and running notebook
 documents via a web browser
 <br> Binder: Offers an easy place to share computing environments to everyone
@@ -9,7 +11,9 @@ documents via a web browser
 <br> Voila: Voila turns a Jupyter Notebook into an interactive document
 <br> Pytorch: a machine learning framework based on the Torch library, used for
 applications such as computer vision and natural language processing
-<br> ### HARDWARE TOOLS <br>
+<br> 
+**### HARDWARE TOOLS**
+<br>
 The hardware tools that will be needed to complete this project are:
  <br> Nvidia GPU Laptop
  <br> Mobile Phone with Camera
