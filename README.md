@@ -11,7 +11,6 @@ documents via a web browser
 <br> Pytorch: a machine learning framework based on the Torch library, used for
 applications such as computer vision and natural language processing
 ### HARDWARE TOOLS
-<br>
 The hardware tools that will be needed to complete this project are:
  <br> Nvidia GPU Laptop
  <br> Mobile Phone with Camera
